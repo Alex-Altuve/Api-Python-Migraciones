@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+psycopg2
+SQLAlchemy
+autopep8
+cryptography
